@@ -1,1 +1,3 @@
+<<<<<<< HEAD
 # RichMan.github.io
+
